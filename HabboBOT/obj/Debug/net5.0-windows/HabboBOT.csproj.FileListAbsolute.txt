@@ -1,0 +1,70 @@
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\HabboBOT.exe
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\HabboBOT.deps.json
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\HabboBOT.runtimeconfig.json
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\HabboBOT.runtimeconfig.dev.json
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\HabboBOT.dll
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\HabboBOT.pdb
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\System.Web.Razor.dll
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\System.Web.Helpers.dll
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\System.Web.WebPages.Deployment.dll
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\System.Web.WebPages.Razor.dll
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\System.Web.WebPages.dll
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\Microsoft.Web.Infrastructure.dll
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\Nancy.dll
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\websocket-sharp.dll
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\DiscordRPC.dll
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\Sulakore.dll
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\bin\Debug\net5.0-windows\TwoCaptcha.dll
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.Form1.resources
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.Login.resources
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.csproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.dll
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\obj\Debug\net5.0-windows\refint\HabboBOT.dll
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.pdb
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\HabboBOT\HabboBOT\obj\Debug\net5.0-windows\ref\HabboBOT.dll
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\HabboBOT.exe
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\HabboBOT.deps.json
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\HabboBOT.runtimeconfig.json
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\HabboBOT.runtimeconfig.dev.json
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\HabboBOT.dll
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\HabboBOT.pdb
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\System.Web.Razor.dll
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\System.Web.Helpers.dll
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\System.Web.WebPages.Deployment.dll
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\System.Web.WebPages.Razor.dll
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\System.Web.WebPages.dll
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\Microsoft.Extensions.PlatformAbstractions.dll
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\Microsoft.Web.Infrastructure.dll
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\Nancy.dll
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\websocket-sharp.dll
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\DiscordRPC.dll
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\Sulakore.dll
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\bin\Debug\net5.0-windows\TwoCaptcha.dll
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.csproj.AssemblyReference.cache
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.Form1.resources
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.Login.resources
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.csproj.GenerateResource.cache
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.AssemblyInfoInputs.cache
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.AssemblyInfo.cs
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.csproj.CoreCompileInputs.cache
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.csproj.CopyComplete
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.dll
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\obj\Debug\net5.0-windows\refint\HabboBOT.dll
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.pdb
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\obj\Debug\net5.0-windows\HabboBOT.genruntimeconfig.cache
+D:\ZZ-Cositas\Proyectos\HabboBOT - copia\HabboBOT\obj\Debug\net5.0-windows\ref\HabboBOT.dll
